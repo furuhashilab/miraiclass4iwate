@@ -8,7 +8,7 @@
 ### 第1回 (7/14) まちを知る
 
 #### 講義資料
-* （ここにPDFファイルを置く予定です。）
+* [PDFファイル](https://github.com/furuhashilab/miraiclass4iwate/blob/main/docs/20210714_miraiclass4iwate_mid.pdf)
 
 #### 参考資料
 * [Googleマップ](https://www.google.com/maps/@39.9677447,141.2111266,13z)
