@@ -9,6 +9,7 @@
 
 #### 講義資料
 * [PDFファイル](https://github.com/furuhashilab/miraiclass4iwate/blob/main/docs/20210714_miraiclass4iwate_mid.pdf)
+* [ウェブブラウザ閲覧](https://speakerdeck.com/furuhashilab/yan-shou-ting-wei-lai-falsejiao-shi-zhao-gong-nei-gao-xiao-di-1hui-jiang-yi-zi-liao)
 
 #### 参考資料
 * [Googleマップ](https://www.google.com/maps/@39.9677447,141.2111266,13z)
