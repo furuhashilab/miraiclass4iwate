@@ -6,7 +6,7 @@
 ### 第1回 (10/17) まちを知る
 
 #### 講義資料
-* [PDFファイル]()
+* [PDFファイル](https://speakerdeck.com/furuhashilab/matiwole-simudi-tu-wotukuru-yan-shou-ting)
 
 
 #### 参考資料
