@@ -22,6 +22,8 @@
 
 
 ## 総合的な探求の時間 ＠ 沼宮内高校
+沼宮内高校から GitHub にアクセスができないため、[HackMD](https://hackmd.io/@rXNENS7aSaW9c6QzLF-OiQ/BkVgnYGLY) で代用。
+
 ### 第1回 (7/14) まちを知る
 
 #### 講義資料
@@ -31,7 +33,6 @@
 * [OpenStreetMap](https://www.openstreetmap.org/#map=13/39.9695/141.2152)
 * [地理院地図](https://maps.gsi.go.jp/#12/39.951736/141.277463/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m)
 * [Googleマップ（但し、沼宮内高校内ネットワークからは閲覧できません）](https://www.google.com/maps/@39.9677447,141.2111266,13z)
-
 
 
 ### 第2回 (8/23) まちを探索する
