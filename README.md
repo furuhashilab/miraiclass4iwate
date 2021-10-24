@@ -6,6 +6,8 @@
 ## 「未来の教室」 ＠ プラザあい
 ### 第1回 (10/17) まちを知る
 
+<img src="https://user-images.githubusercontent.com/416977/138586054-b9f3732e-90bb-4df2-8f1b-7756bacf7cd1.JPG" width="400">
+
 #### 講義資料
 * [PDFファイル](https://speakerdeck.com/furuhashilab/matiwole-simudi-tu-wotukuru-yan-shou-ting)
 
