@@ -16,7 +16,7 @@
 
 ### 第2回 まちを探索する
 * [2021-10-24撮影のドローン空撮画像](https://map.openaerialmap.org/#/141.225106716156,39.970846791906,16/latest/6174b7833b51b90006e0e79d?_k=7jbmmd)
-
+* [パブリックアート作品マッピング用 Googleマイマップ](https://www.google.com/maps/d/u/0/edit?mid=189qz2sHACSbqG5XkRdbpQF9qO4KRBM9U&usp=sharing)
 
 ---
 
