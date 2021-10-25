@@ -17,7 +17,7 @@
 * [Googleマップ](https://www.google.com/maps/@39.9677447,141.2111266,13z)
 
 
-### 第2回 まちを探索する
+### 第2回 (10/24) まちを探索する
 #### 講義資料
 * [PDFファイル](https://speakerdeck.com/furuhashilab/matiwole-simudi-tu-wotukuru-di-2hui-matiwotan-suo-suru)
 
@@ -25,6 +25,10 @@
 * [2021-10-24撮影のドローン空撮画像](https://map.openaerialmap.org/#/141.225106716156,39.970846791906,16/latest/6174b7833b51b90006e0e79d?_k=7jbmmd)
 * [パブリックアート作品マッピング用 Googleマイマップ](https://www.google.com/maps/d/u/0/edit?hl=ja&mid=189qz2sHACSbqG5XkRdbpQF9qO4KRBM9U&ll=39.970001892913416%2C141.21096216733272&z=16)
 * [ひなたGISを使った情報共有事例](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#thSNY6IH7jGr)
+
+
+### 第3回 (11/3) まちを探索する
+乞うご期待！
 
 
 ---
