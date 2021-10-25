@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/416977/138619581-c212f91c-24b4-4fff-b2de-e2a18a15c264.jpg" width="400">
 
 
-## 総合的な探求の時間 ＠ 沼宮内高校
+## 「総合的な探求の時間」 ＠ 沼宮内高校
 沼宮内高校から GitHub にアクセスができないため、[HackMD](https://hackmd.io/@rXNENS7aSaW9c6QzLF-OiQ/BkVgnYGLY) で代用。
 
 ### 第1回 (7/14) まちを知る
