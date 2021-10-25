@@ -46,16 +46,21 @@
 * [Googleマップ](https://www.google.com/maps/@39.9677447,141.2111266,13z)
 
 
-### 第2回 (8/23) まちを探索する
+### 第2回 (10/25) まちを探索する
 
 #### 講義資料 
-* 準備中
+* [PDFファイル](https://speakerdeck.com/furuhashilab/yan-shou-ting-wei-lai-falsejiao-shi-zhao-gong-nei-gao-xiao-di-2hui-jiang-yi-zi-liao)
 
 #### 参考資料
 * [OpenStreetMapアカウント作成](https://www.openstreetmap.org/user/new)
 * [OpenStreetMap 沼宮内高校周辺](https://www.openstreetmap.org/#map=13/39.9695/141.2152)
 * [OpenAerialMap 沼宮内高校周辺航空写真](https://map.openaerialmap.org/#/141.21187806129456,39.97046856629311,16/latest/6175fc773b51b90006e0e7b0?_k=oiffb8)
-* 
+* [ジオキャッシング](https://www.geocaching.com/play/map?lat=39.9691&lng=141.2108&zoom=18&asc=true&sort=distance&st=N+39%C2%B0+58.280%27+E+141%C2%B0+12.587%27&ot=coords)
+* [沼宮内高校セミナーハウス GC9EJF4](https://coord.info/GC9EJF4)
 
 
-### 第3回 (8/30) まちで遊ぶ
+### 第3回 (11/1) まちで遊ぶ
+
+---
+
+### 最終発表会 (11/3) ＠ プラザあい
