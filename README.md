@@ -46,6 +46,14 @@
 
 ### 第2回 (8/23) まちを探索する
 
+#### 講義資料 
+* 準備中
+
+#### 参考資料
+* [OpenStreetMapアカウント作成](https://www.openstreetmap.org/user/new)
+* [OpenStreetMap 沼宮内高校周辺](https://www.openstreetmap.org/#map=13/39.9695/141.2152)
+* [OpenAerialMap 沼宮内高校周辺航空写真](https://map.openaerialmap.org/#/141.21187806129456,39.97046856629311,16/latest/6175fc773b51b90006e0e7b0?_k=oiffb8)
+* 
 
 
 ### 第3回 (8/30) まちで遊ぶ
