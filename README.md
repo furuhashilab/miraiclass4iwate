@@ -70,6 +70,13 @@
 
 ### 第3回 (11/1) まちで遊ぶ
 
+#### 講義資料
+* 準備中
+
+#### 参考資料
+* [ジオキャッシング設置場所検討スプレッドシート](https://docs.google.com/spreadsheets/d/1B8vm_x2FVv5z-jGrrsvQ6VaOtMoIDOEnkOJrPFLVptM/edit#gid=0)
+
+
 ---
 
 ### 最終発表会 (11/3) ＠ プラザあい
