@@ -43,8 +43,8 @@
 
 #### 講義資料
 * [PDFファイル](https://github.com/furuhashilab/miraiclass4iwate/blob/main/docs/20210714_miraiclass4iwate_mid.pdf) / [ウェブブラウザ閲覧](https://speakerdeck.com/furuhashilab/yan-shou-ting-wei-lai-falsejiao-shi-zhao-gong-nei-gao-xiao-di-1hui-jiang-yi-zi-liao)
-* [PDF on Googleドライブ](https://drive.google.com/file/d/1p_RFZUaoHNY_spxOhfqlZJ42xgcV-94V/view?usp=sharing)
-* [PDF on FuruhashiLab.com](http://furuhashilab.com/docs/2021/20211025_iwatetown_numakunaihighschool_SDGsClass_map02.pdf)
+* [PDF on Googleドライブ](https://drive.google.com/file/d/1qxeKybTJbtxR0kAucb6UvqnWt_l4INsz/view?usp=sharing)
+* [PDF on FuruhashiLab.com](http://furuhashilab.com/docs/2021/20211025_iwatetown_numakunaihighschool_SDGsClass_map01_mid.pdf)
 
 
 #### 参考資料
