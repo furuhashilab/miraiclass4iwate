@@ -71,7 +71,7 @@
 ### 第3回 (11/1) まちで遊ぶ
 
 #### 講義資料
-* [PDFファイル](20211101_iwatetown_numakunaihighschool_SDGsClass_map03.pdf)
+* [PDFファイル](http://furuhashilab.com/docs/2021/20211101_iwatetown_numakunaihighschool_SDGsClass_map03.pdf)
 
 #### 参考資料
 * [OpenAerialMap 沼宮内高校周辺航空写真](https://map.openaerialmap.org/#/141.21187806129456,39.97046856629311,16/latest/6175fc773b51b90006e0e7b0?_k=oiffb8)
