@@ -57,8 +57,8 @@
 
 #### 講義資料 
 * [PDF on FuruhashiLab.com](http://furuhashilab.com/docs/2021/20211025_iwatetown_numakunaihighschool_SDGsClass_map02.pdf)
-* [PDF on Googleドライブ](https://drive.google.com/file/d/1p_RFZUaoHNY_spxOhfqlZJ42xgcV-94V/view?usp=sharing)
 * [PDF on Speakerdeck](https://speakerdeck.com/furuhashilab/yan-shou-ting-wei-lai-falsejiao-shi-zhao-gong-nei-gao-xiao-di-2hui-jiang-yi-zi-liao)
+* [PDF on Googleドライブ](https://drive.google.com/file/d/1p_RFZUaoHNY_spxOhfqlZJ42xgcV-94V/view?usp=sharing)
 
 #### 参考資料
 * [OpenStreetMapアカウント作成](https://www.openstreetmap.org/user/new)
@@ -71,7 +71,9 @@
 ### 第3回 (11/1) まちで遊ぶ
 
 #### 講義資料
-* [PDFファイル](http://furuhashilab.com/docs/2021/20211101_iwatetown_numakunaihighschool_SDGsClass_map03.pdf)
+* [PDF on FuruhashiLab.com](http://furuhashilab.com/docs/2021/20211101_iwatetown_numakunaihighschool_SDGsClass_map03.pdf)
+* [PDF on Speakerdeck](https://speakerdeck.com/furuhashilab/yan-shou-ting-wei-lai-falsejiao-shi-zhao-gong-nei-gao-xiao-di-3hui-jiang-yi-zi-liao)
+* [PDF on Googleドライブ](https://drive.google.com/file/d/1uDFiEPdoyeO3AlWd_86w8F3ReKJ7KIt0/view?usp=sharing)
 
 #### 参考資料
 * [OpenAerialMap 沼宮内高校周辺航空写真](https://map.openaerialmap.org/#/141.21187806129456,39.97046856629311,16/latest/6175fc773b51b90006e0e7b0?_k=oiffb8)
