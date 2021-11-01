@@ -74,6 +74,8 @@
 * 準備中
 
 #### 参考資料
+* [OpenAerialMap 沼宮内高校周辺航空写真](https://map.openaerialmap.org/#/141.21187806129456,39.97046856629311,16/latest/6175fc773b51b90006e0e7b0?_k=oiffb8)
+* [OpenStreetMap Wiki | Building](https://wiki.openstreetmap.org/wiki/JA:Key:building)
 * [ジオキャッシング設置場所検討スプレッドシート](https://docs.google.com/spreadsheets/d/1B8vm_x2FVv5z-jGrrsvQ6VaOtMoIDOEnkOJrPFLVptM/edit#gid=0)
 
 
