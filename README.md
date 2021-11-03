@@ -1,7 +1,7 @@
 # 岩手町 SDGs 未来都市共創プロジェクト「未来の教室」 まちを楽しむ地図をつくる
 講師： 古橋 大地（青山学院大学） [Twitter](https://twitter.com/mapconcierge), [Facebook](https://www.facebook.com/mapconcierge), [Instagram](https://instagram.com/mapconcierge)
 
-**[今後の連絡用グループチャット on LINEオープンチャット](https://confluence.org/confluence.php)**
+**[今後の連絡用グループチャット on LINEオープンチャット](https://line.me/ti/g2/i60a4q9o5Zofg1yPOq-kF_TIYugONlPS-9TYIA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)**
 
 
 
