@@ -32,6 +32,7 @@
 
 #### 参考資料
 * [OSM Wiki | 建物属性](https://wiki.openstreetmap.org/wiki/JA:Key:building)
+* [OpenAerialMap 沼宮内 よい子のひろば 上空空撮画像](https://map.openaerialmap.org/#/141.21833150000006,39.96537105591369,17/latest/6181d5728ebcb9000515c54e?_k=xxd3e4)
 
 ---
 
