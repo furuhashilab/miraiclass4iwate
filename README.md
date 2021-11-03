@@ -28,8 +28,10 @@
 
 
 ### 第3回 (11/3) まちを探索する
-乞うご期待！
 
+
+#### 参考資料
+* [OSM Wiki | 建物属性](https://wiki.openstreetmap.org/wiki/JA:Key:building)
 
 ---
 
