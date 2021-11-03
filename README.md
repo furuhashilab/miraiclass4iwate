@@ -27,7 +27,7 @@
 * [ひなたGISを使った情報共有事例](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#thSNY6IH7jGr)
 
 
-### 第3回 (11/3) まちを探索する
+### 第3回 (11/3) まちで遊ぶ
 
 
 #### 参考資料
