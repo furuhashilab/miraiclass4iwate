@@ -1,6 +1,9 @@
 # 岩手町 SDGs 未来都市共創プロジェクト「未来の教室」 まちを楽しむ地図をつくる
 講師： 古橋 大地（青山学院大学） [Twitter](https://twitter.com/mapconcierge), [Facebook](https://www.facebook.com/mapconcierge), [Instagram](https://instagram.com/mapconcierge)
 
+**[今後の連絡用グループチャット on LINEオープンチャット]()**
+
+
 ![IMG_7760のコピー](https://user-images.githubusercontent.com/416977/138586049-01627e71-0dda-4c65-9aa6-7a69037df192.JPG)
 
 ## 「未来の教室」 ＠ プラザあい
@@ -34,7 +37,7 @@
 * [OSM Wiki | 建物属性](https://wiki.openstreetmap.org/wiki/JA:Key:building)
 * [OpenAerialMap 沼宮内 よい子のひろば 上空空撮画像](https://map.openaerialmap.org/#/141.21833150000006,39.96537105591369,17/latest/6181d5728ebcb9000515c54e?_k=xxd3e4)
 * [タスキングマネージャー 沼宮内ドローンマッピング 20211103](https://tasks.hotosm.org/projects/11746/)
-* [おーぷ](https://link.medium.com/XG9gJ4pcSkb)
+* [オープンデータライセンスについての議論](https://link.medium.com/XG9gJ4pcSkb)
 
 ---
 
